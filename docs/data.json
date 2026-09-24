@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-21",
+  "generado": "2026-09-24",
   "comunidades": {
     "yacht-club-brickell": {
       "nombre": "Yacht Club at Brickell",
@@ -168,10 +168,11 @@
         "direccion": "1111 Brickell Bay Drive, Miami, FL"
       },
       "verificado": "2026-09-21",
-      "fallos_seguidos": 0,
+      "fallos_seguidos": 1,
       "estrategia": "auto",
       "identidad": "impersonate",
-      "notas": []
+      "notas": [],
+      "ultimo_error": "El sitio respondió con error 403."
     },
     "miro-brickell": {
       "nombre": "Miro Brickell",
@@ -447,10 +448,11 @@
         "direccion": "255 SW 11th St, Miami, FL"
       },
       "verificado": "2026-09-21",
-      "fallos_seguidos": 0,
+      "fallos_seguidos": 1,
       "estrategia": "auto",
       "identidad": "impersonate",
-      "notas": []
+      "notas": [],
+      "ultimo_error": "El sitio respondió con error 403."
     },
     "flow-brickell": {
       "nombre": "Flow Brickell",
@@ -715,12 +717,13 @@
         "direccion": "275 SW 6th St, Miami, FL"
       },
       "verificado": "2026-09-21",
-      "fallos_seguidos": 0,
+      "fallos_seguidos": 1,
       "estrategia": "auto",
       "identidad": "impersonate",
       "notas": [
         "rango muy amplio $2,783 a $12,911, revisar"
-      ]
+      ],
+      "ultimo_error": "El sitio respondió con error 403."
     },
     "legacy-at-brickell": {
       "nombre": "Legacy at Brickell",
@@ -807,10 +810,11 @@
         "direccion": "1227 SW 3rd Avenue, Brickell, FL"
       },
       "verificado": "2026-09-21",
-      "fallos_seguidos": 0,
+      "fallos_seguidos": 1,
       "estrategia": "auto",
       "identidad": "impersonate",
-      "notas": []
+      "notas": [],
+      "ultimo_error": "El sitio respondió con error 403."
     },
     "promenade-aventura": {
       "nombre": "Promenade at Aventura",
@@ -897,10 +901,11 @@
         "direccion": "19680 E Country Club Dr, Aventura, FL"
       },
       "verificado": "2026-09-21",
-      "fallos_seguidos": 0,
+      "fallos_seguidos": 1,
       "estrategia": "auto",
       "identidad": "impersonate",
-      "notas": []
+      "notas": [],
+      "ultimo_error": "El sitio respondió con error 403."
     },
     "blu-aventura": {
       "nombre": "Blu Aventura",
@@ -1093,10 +1098,11 @@
         "direccion": "2335 NE 186th St., Miami, FL"
       },
       "verificado": "2026-09-21",
-      "fallos_seguidos": 0,
+      "fallos_seguidos": 1,
       "estrategia": "auto",
       "identidad": "impersonate",
-      "notas": []
+      "notas": [],
+      "ultimo_error": "El sitio respondió con error 403."
     },
     "arvella-aventura": {
       "nombre": "Arvella",
@@ -1646,10 +1652,11 @@
         "direccion": "2555 NE 179th Street, Miami, FL"
       },
       "verificado": "2026-09-21",
-      "fallos_seguidos": 0,
+      "fallos_seguidos": 1,
       "estrategia": "auto",
       "identidad": "impersonate",
-      "notas": []
+      "notas": [],
+      "ultimo_error": "El sitio respondió con error 403."
     },
     "aventura-quattro": {
       "nombre": "Aventura Quattro",
@@ -1704,10 +1711,11 @@
         "direccion": "2479 NE 192 ST, Miami, FL"
       },
       "verificado": "2026-09-21",
-      "fallos_seguidos": 0,
+      "fallos_seguidos": 1,
       "estrategia": "auto",
       "identidad": "impersonate",
-      "notas": []
+      "notas": [],
+      "ultimo_error": "El sitio respondió con error 403."
     }
   }
 }
